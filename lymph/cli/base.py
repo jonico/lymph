@@ -4,8 +4,6 @@ import logging
 import pkg_resources
 import six
 import textwrap
-import traceback
-import sys
 
 from lymph.exceptions import Timeout, LookupFailure
 
